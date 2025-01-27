@@ -1,5 +1,6 @@
 import { A } from "@solidjs/router";
-import Counter from "~/components/Counter";
+import Counter from "@/components/Counter";
+import { Card, CardContent } from "@/components/ui/card";
 
 export default function About() {
   return (
@@ -20,6 +21,11 @@ export default function About() {
         {" - "}
         <span>About Page</span>
       </p>
+      <Card class="w-fit">
+        <CardContent class="w-fit p-2">
+          <img src="/images/profile.jpg" alt="Personal Photo" class="block" width={200} />
+        </CardContent>
+      </Card>
     </main>
   );
 }
