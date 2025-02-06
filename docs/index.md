@@ -35,18 +35,26 @@ ISEL – Instituto Superior de Engenharia de Lisboa
 ISEL – Instituto Superior de Engenharia de Lisboa
 
 ## Skills
-### Language
-* Portuguese (Native)
-* English (Advanced)
-* Spanish (Intermediate)
+### Language:
+* *Portuguese (Native)*
+* *English (Advanced)*
+* *Spanish (Intermediate)*
 
-### Programming: 
+### Programming
+#### Languages:
 * Java &#xf0b37; , Kotlin &#xe634; 
 * JavaScript &#xe781; , Typescript &#xe8ca;
-* Docker &#xe7b0; , Kubernetes &#xe81d; 
+* HTML &#xe736; , CSS &#xe749;
 * Python &#xe73c;
 * C &#xe61e; , Zig &#xe6a9;
 * PostgreSQL &#xe76e; , SQLite &#xe7c4; , MongoDB &#xe7a4; , Firebase &#xf0967;
+
+#### Frameworks:
+* Docker &#xe7b0; , Kubernetes &#xe81d; 
+* Spring Boot &#xe8ac; , Hibernate &#xe7fc;
+* Next.js &#xe83e; , SolidJS &#xe8a7; , TailwindCSS &#xf13ff;
+* Tauri &#xe8bb;
+* Android &#xf17b;
 
 
 ## Projects
@@ -61,12 +69,12 @@ flow, PostgreSQL, Docker
 Instituto Superior de Engenharia de Lisboa Final Master’s Project, 2024.
 * **Skills:** Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
 
-### Fullstack Budget Calculator For Cozimodos Lda
-A fullstack budget calculator for a custom kitchen workshop, Torres Vedras, Portugal, 2024.
-* **Skills:** JavaScript, TypeScript, PostgreSQL, NextJS, TailwindCSS, NodeJS, i18n
-* **Links:** https://www.cozimodus.com
-
 ### Genome Assemblers Comparison
 A Project and Publication about the underlying open source DNA genome assemblers algorithms and their output results, 2024.
 * **Skills:** Docker, Bash Shell, Python, Batch, Conda.
 * **Links:** https://github.com/ACRae/Genome_Assemblers_Comparison
+
+### Fullstack Budget Calculator For Cozimodos Lda
+A fullstack budget calculator for a custom kitchen workshop, Torres Vedras, Portugal, 2025.
+* **Skills:** JavaScript, TypeScript, PostgreSQL, NextJS, TailwindCSS, NodeJS, i18n
+* **Links:** https://www.cozimodus.com
