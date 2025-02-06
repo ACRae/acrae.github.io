@@ -14,13 +14,13 @@ hero:
       text: API Examples
       link: /api-examples
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 ## About Me
@@ -40,8 +40,7 @@ ISEL – Instituto Superior de Engenharia de Lisboa
 * *English (Advanced)*
 * *Spanish (Intermediate)*
 
-### Programming
-#### Languages:
+### Programming:
 * Java &#xf0b37; , Kotlin &#xe634; 
 * JavaScript &#xe781; , Typescript &#xe8ca;
 * HTML &#xe736; , CSS &#xe749;
@@ -52,7 +51,7 @@ ISEL – Instituto Superior de Engenharia de Lisboa
 #### Frameworks:
 * Docker &#xe7b0; , Kubernetes &#xe81d; 
 * Spring Boot &#xe8ac; , Hibernate &#xe7fc;
-* Next.js &#xe83e; , SolidJS &#xe8a7; , TailwindCSS &#xf13ff;
+* Next.js &#xe83e; , SolidJS &#xe8a7; , Vite &#xe8d7; , TailwindCSS &#xf13ff;
 * Tauri &#xe8bb;
 * Android &#xf17b;
 
@@ -61,20 +60,19 @@ ISEL – Instituto Superior de Engenharia de Lisboa
 
 ### PostChat - Intelligent Service to Send Digital Postcards 
 Instituto Superior de Engenharia de Lisboa Final Bachelor’s Project, 2022.
-* **Skills:** Android Programming, AI, Jetpack Compose, Kotlin, Python, CNN, Tensor-
-flow, PostgreSQL, Docker
-* **Links:** https://github.com/ACRae/PostChat
+* Skills: Android Programming, AI, Jetpack Compose, Kotlin, Python, CNN, Tensorflow, PostgreSQL, Docker
+* Links: https://github.com/ACRae/PostChat
 
 ### Semantic Segmentation of Medical Images For Fast Diagnosis
 Instituto Superior de Engenharia de Lisboa Final Master’s Project, 2024.
-* **Skills:** Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
+* Skills Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
 
 ### Genome Assemblers Comparison
 A Project and Publication about the underlying open source DNA genome assemblers algorithms and their output results, 2024.
-* **Skills:** Docker, Bash Shell, Python, Batch, Conda.
-* **Links:** https://github.com/ACRae/Genome_Assemblers_Comparison
+* Skills Docker, Bash Shell, Python, Batch, Conda.
+* Links https://github.com/ACRae/Genome_Assemblers_Comparison
 
 ### Fullstack Budget Calculator For Cozimodos Lda
 A fullstack budget calculator for a custom kitchen workshop, Torres Vedras, Portugal, 2025.
-* **Skills:** JavaScript, TypeScript, PostgreSQL, NextJS, TailwindCSS, NodeJS, i18n
-* **Links:** https://www.cozimodus.com
+* Skills JavaScript, TypeScript, PostgreSQL, Next.js, TailwindCSS, Node.js, i18n
+* Links https://www.cozimodus.com
