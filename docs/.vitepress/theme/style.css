@@ -43,7 +43,14 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
+
+
 :root {
+  --vp-c-indigo-1: #ebe04c;
+  --vp-c-indigo-2: #ebb34c;
+  --vp-c-indigo-3: #ed7739;
+  --vp-c-indigo-soft: rgba(100, 108, 255, 0.14);
+
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
@@ -94,8 +101,8 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #bd34fe 30%,
-    #41d1ff
+    #ebb34c 30%,
+    #ed7739
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
@@ -109,7 +116,7 @@
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
-  }
+  };
 }
 
 @media (min-width: 960px) {
@@ -159,6 +166,28 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@media (min-width: 960px) {
+  .VPHero[data-v-72cc4481] {
+    padding-top: calc(var(--vp-nav-height, 0px) + var(--vp-layout-top-height, 0px) + 80px);
+    padding-right: 64px;
+    padding-bottom: 30px;
+    padding-left: 64px;
+  }
+}
+
+.VPHero .name {
+  max-width: 800px;
+}
+
+.VPHero .text {
+  max-width: 800px;
+}
+
+
+/* .items[data-v-f5090ebe] {
+  padding-bottom: 60px;
+} */
 
 
 
