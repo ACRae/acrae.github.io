@@ -10,7 +10,7 @@ Smart service for digital postcard messaging
 
 ## Screenshots
 
-<div id="image-container">
+<div class="image-container">
     <img src="https://github.com/ACRae/PostChat/raw/main/docs/Android/SignInActivityRegister.png" width="200" />
     <img src="https://github.com/ACRae/PostChat/raw/main/docs/Android/HomeActivity.png" width="200" />
     <img src="https://github.com/ACRae/PostChat/raw/main/docs/Android/ChatActivityCreateChatDialog.png" width="200" />
