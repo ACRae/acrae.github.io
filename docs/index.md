@@ -8,11 +8,14 @@ hero:
   tagline: Computer Science Engineering Student
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projects
+      link: /projects
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github
+      link: https://github.com/ACRae
+    - theme: alt
+      text: Contact
+      link: "#email-xf01ee"
 
 # features:
 #   - title: Feature A
@@ -29,10 +32,13 @@ I am a motivated and dedicated person graduated with a degree in computer scienc
 ## Education
 
 ### Bachelor’s Degree in Computer Science and Engineering
-ISEL – Instituto Superior de Engenharia de Lisboa
+ISEL – Instituto Superior de Engenharia de Lisboa  
+Portugal, Lisbon 2020 - 2023
 
 ### Master’s Degree in Computer Science and Engineering
-ISEL – Instituto Superior de Engenharia de Lisboa
+ISEL – Instituto Superior de Engenharia de Lisboa  
+Portugal, Lisbon 2023 - 2025
+
 
 ## Skills
 ### Language:
@@ -47,25 +53,23 @@ ISEL – Instituto Superior de Engenharia de Lisboa
 * Python &#xe73c;
 * C &#xe61e; , Zig &#xe6a9;
 * PostgreSQL &#xe76e; , SQLite &#xe7c4; , MongoDB &#xe7a4; , Firebase &#xf0967;
+* Android &#xf17b;
 
 #### Frameworks:
 * Docker &#xe7b0; , Kubernetes &#xe81d; 
 * Spring Boot &#xe8ac; , Hibernate &#xe7fc;
 * Next.js &#xe83e; , SolidJS &#xe8a7; , Vite &#xe8d7; , TailwindCSS &#xf13ff;
 * Tauri &#xe8bb;
-* Android &#xf17b;
+* Android Compose &#xf17b; , Material UI &#xe829;
 
 
-## Projects
+
+## Main Projects
 
 ### PostChat - Intelligent Service to Send Digital Postcards 
 Instituto Superior de Engenharia de Lisboa Final Bachelor’s Project, 2022.
 * Skills: Android Programming, AI, Jetpack Compose, Kotlin, Python, CNN, Tensorflow, PostgreSQL, Docker
 * Links: https://github.com/ACRae/PostChat
-
-### Semantic Segmentation of Medical Images For Fast Diagnosis
-Instituto Superior de Engenharia de Lisboa Final Master’s Project, 2024.
-* Skills Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
 
 ### Genome Assemblers Comparison
 A Project and Publication about the underlying open source DNA genome assemblers algorithms and their output results, 2024.
@@ -76,3 +80,25 @@ A Project and Publication about the underlying open source DNA genome assemblers
 A fullstack budget calculator for a custom kitchen workshop, Torres Vedras, Portugal, 2025.
 * Skills JavaScript, TypeScript, PostgreSQL, Next.js, TailwindCSS, Node.js, i18n
 * Links https://www.cozimodus.com
+
+### Mobile-CMUNeXt: Fast Semantic Segmentation Diagnosis of Medical Images
+Master’s Thesis Project, 2025.
+* Skills Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
+
+
+## Socials
+### Email &#xf01ee;
+* antonio.maria5.carvalho@gmail.com 
+* acrae.dev@proton.com
+
+### LinkedIn &#xe820;
+https://www.linked.com/in/acrae2002
+
+### GitHub &#xf09b;
+https://github.com/ACRae
+
+### Codeberg &#xf330;
+https://codeberg.org/ACRae
+
+### ORCID &#xefbb;
+https://orcid.org/0009-0001-5265-9566
