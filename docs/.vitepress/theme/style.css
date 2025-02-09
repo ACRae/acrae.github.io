@@ -176,6 +176,16 @@
   }
 }
 
+
+@media (min-width: 960px) {
+  .tagline[data-v-72cc4481] {
+    line-height: 36px;
+    font-size: 24px;
+    max-width: 8000px;
+  }
+}
+
+
 .VPHero .name {
   max-width: 800px;
 }
@@ -215,8 +225,6 @@ code, pre {
 }
 
 
-
-
 .image-container {
   margin-top: 20px;
   display: flex;
@@ -227,4 +235,35 @@ code, pre {
 .image-container img {
   max-width: 100%;
   height: auto;
+}
+
+
+
+
+/**
+ * Setup Profile Picture Style
+ * -------------------------------------------------------------------------- */
+.profile-container {
+  display: flex;
+  align-items: center;
+}
+
+.profile-pic {
+  width: 130px;
+  height: auto;
+  margin-right: 15px;
+}
+
+/* Mobile View: Stack Image on Top */
+@media (max-width: 600px) {
+  .profile-container {
+      flex-direction: column;
+      align-items: center; /* Center align content */
+      text-align: center; /* Center text */
+  }
+
+  .profile-pic {
+      margin-right: 0; /* Remove margin */
+      margin-bottom: 10px; /* Add space below image */
+  }
 }

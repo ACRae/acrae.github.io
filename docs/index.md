@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "António&nbsp;Carvalho"
-  text: "Software Engineer"
-  tagline: Computer Science Engineering Student
+  name: "António&nbsp;Carvalho's"
+  text: "Portofolio"
+  tagline: Master’s Degree in Computer Science and Engineering 
   actions:
     - theme: brand
       text: Projects
@@ -17,17 +17,20 @@ hero:
       text: Contact
       link: "#email-xf01ee"
 
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+   - title: ACRae
+     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+   - title: Feature B
+     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 ## About Me
-I am a motivated and dedicated person graduated with a degree in computer science with a strong passion for technology and its applications. As a highly analytical and detail-oriented individual, I thrive in problem-solving environments and enjoy exploring innovative solutions to complex challenges. With a solid foundation in computer science principles and programming languages, I am eager to apply my skills and knowledge to contribute to the ever-evolving field of technology.
+<div class="profile-container">
+    <img src="./profile_pic.jpg" alt="Your Image" class="profile-pic">
+    <p>
+        I am a motivated and dedicated person graduated with a degree in computer science with a strong passion for technology and its applications. As a highly analytical and detail-oriented individual, I thrive in problem-solving environments and enjoy exploring innovative solutions to complex challenges. With a solid foundation in computer science principles and programming languages, I am eager to apply my skills and knowledge to contribute to the ever-evolving field of technology.
+    </p>
+</div>
 
 ## Education
 
@@ -41,7 +44,7 @@ Portugal, Lisbon 2023 - 2025
 
 
 ## Skills
-### Language:
+### Languages:
 * *Portuguese (Native)*
 * *English (Advanced)*
 * *Spanish (Intermediate)*
