@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/",
   title: "ACRae - António Carvalho",
   description: "Antonio Carvalho CV",
   head: [

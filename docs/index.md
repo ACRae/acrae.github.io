@@ -26,7 +26,7 @@ hero:
 
 ## About Me
 <div class="profile-container">
-    <img src="./profile_pic.jpg" alt="Your Image" class="profile-pic">
+    <img src="/profile_pic.jpg" alt="Your Image" class="profile-pic">
     <p>
         I am a motivated and dedicated person graduated with a degree in computer science with a strong passion for technology and its applications. As a highly analytical and detail-oriented individual, I thrive in problem-solving environments and enjoy exploring innovative solutions to complex challenges. With a solid foundation in computer science principles and programming languages, I am eager to apply my skills and knowledge to contribute to the ever-evolving field of technology.
     </p>

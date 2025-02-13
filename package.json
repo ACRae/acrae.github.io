@@ -6,6 +6,7 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "deploy": "bun run docs:build && cd docs/.vitepress/dist && git init && git add . && git commit -m 'Deploy' && git branch -M gh-pages && git remote add origin https://github.com/ACRae/website.git && git push -f origin gh-pages"
   }
 }
