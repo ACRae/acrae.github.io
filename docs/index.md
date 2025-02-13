@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "António&nbsp;Carvalho's"
+  name: "António Carvalho's"
   text: "Portofolio"
   tagline: Master’s Degree in Computer Science and Engineering 
   actions:
     - theme: brand
       text: Projects
-      link: /projects
+      link: /projects/postchat
     - theme: alt
       text: Github
       link: https://github.com/ACRae
@@ -17,11 +17,11 @@ hero:
       text: Contact
       link: "#email-xf01ee"
 
-features:
-   - title: ACRae
-     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-   - title: Feature B
-     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#    - title: ACRae
+#      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    - title: Feature B
+#      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 ## About Me
@@ -77,16 +77,17 @@ Instituto Superior de Engenharia de Lisboa Final Bachelor’s Project, 2022.
 ### Genome Assemblers Comparison
 A Project and Publication about the underlying open source DNA genome assemblers algorithms and their output results, 2024.
 * Skills Docker, Bash Shell, Python, Batch, Conda.
-* Links https://github.com/ACRae/Genome_Assemblers_Comparison
+* Links: https://github.com/ACRae/Genome_Assemblers_Comparison
 
 ### Fullstack Budget Calculator For Cozimodos Lda
 A fullstack budget calculator for a custom kitchen workshop, Torres Vedras, Portugal, 2025.
 * Skills JavaScript, TypeScript, PostgreSQL, Next.js, TailwindCSS, Node.js, i18n
-* Links https://www.cozimodus.com
+* Links: https://www.cozimodus.com
 
 ### Mobile-CMUNeXt: Fast Semantic Segmentation Diagnosis of Medical Images
 Master’s Thesis Project, 2025.
 * Skills Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
+* Links: https://github.com/ACRae/Mobile-CMUNeXt
 
 
 ## Socials

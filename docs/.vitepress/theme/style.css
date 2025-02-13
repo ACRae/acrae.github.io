@@ -173,6 +173,11 @@
     padding-right: 64px;
     padding-bottom: 30px;
     padding-left: 64px;
+    max-width: 8000px;
+  }
+
+  .VPHero .name {
+    max-width: 800px;
   }
 }
 
@@ -186,20 +191,12 @@
 }
 
 
-.VPHero .name {
-  max-width: 800px;
+@media (max-width: 400px) {
+  .VPHero .name {
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
 }
-
-.VPHero .text {
-  max-width: 800px;
-}
-
-
-/* .items[data-v-f5090ebe] {
-  padding-bottom: 60px;
-} */
-
-
 
 /**
  * Setup Heading Font

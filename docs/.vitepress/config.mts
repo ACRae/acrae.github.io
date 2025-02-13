@@ -16,10 +16,12 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Projects',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'PostChat', link: '/projects/postchat' },
+          { text: 'Tauri Starter', link: '/projects/tauri-starter' },
+          { text: 'Genome Assemblers Comparison', link: '/projects/genome-assemblers' },
+          { text: 'Mobile-CMUNeXt', link: '/projects/mobile-cmunext'}
         ]
       }
     ],
