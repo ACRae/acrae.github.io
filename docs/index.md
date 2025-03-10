@@ -61,7 +61,7 @@ Portugal, Lisbon 2023 - 2025
 #### Frameworks:
 * Docker &#xe7b0; , Kubernetes &#xe81d; 
 * Spring Boot &#xe8ac; , Hibernate &#xe7fc;
-* Next.js &#xe83e; , SolidJS &#xe8a7; , Vite &#xe8d7; , TailwindCSS &#xf13ff;
+* React &#xe7ba; , Next.js &#xe83e; , SolidJS &#xe8a7; , Vite &#xe8d7; , TailwindCSS &#xf13ff;
 * Tauri &#xe8bb;
 * Android Compose &#xf17b; , Material UI &#xe829;
 
@@ -76,17 +76,17 @@ Instituto Superior de Engenharia de Lisboa Final Bachelor’s Project, 2022.
 
 ### Genome Assemblers Comparison
 A Project and Publication about the underlying open source DNA genome assemblers algorithms and their output results, 2024.
-* Skills Docker, Bash Shell, Python, Batch, Conda.
+* Skills: Docker, Bash Shell, Python, Batch, Conda.
 * Links: https://github.com/ACRae/Genome_Assemblers_Comparison
 
 ### Fullstack Budget Calculator For Cozimodos Lda
 A fullstack budget calculator for a custom kitchen workshop, Torres Vedras, Portugal, 2025.
-* Skills JavaScript, TypeScript, PostgreSQL, Next.js, TailwindCSS, Node.js, i18n
+* Skills: React, JavaScript, TypeScript, PostgreSQL, Next.js, TailwindCSS, Node.js, i18n
 * Links: https://www.cozimodus.com
 
 ### Mobile-CMUNeXt: Fast Semantic Segmentation Diagnosis of Medical Images
 Master’s Thesis Project, 2025.
-* Skills Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
+* Skills: Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
 * Links: https://github.com/ACRae/Mobile-CMUNeXt
 
 
