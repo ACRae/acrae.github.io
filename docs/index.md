@@ -25,6 +25,7 @@ hero:
 ---
 
 ## About Me
+
 <div class="profile-container">
     <img src="/profile_pic.jpg" alt="Your Image" class="profile-pic">
     <p>
@@ -35,22 +36,26 @@ hero:
 ## Education
 
 ### Bachelor’s Degree in Computer Science and Engineering
+
 ISEL – Instituto Superior de Engenharia de Lisboa  
 Portugal, Lisbon 2020 - 2023
 
 ### Master’s Degree in Computer Science and Engineering
+
 ISEL – Instituto Superior de Engenharia de Lisboa  
 Portugal, Lisbon 2023 - 2025
 
-
 ## Skills
-### Languages:
+
+### Languages
+
 * *Portuguese (Native)*
 * *English (Advanced)*
 * *Spanish (Intermediate)*
 
-### Programming:
-* Java &#xf0b37; , Kotlin &#xe634; 
+### Programming
+
+* Java &#xf0b37; , Kotlin &#xe634;
 * JavaScript &#xe781; , Typescript &#xe8ca;
 * HTML &#xe736; , CSS &#xe749;
 * Python &#xe73c;
@@ -58,51 +63,63 @@ Portugal, Lisbon 2023 - 2025
 * PostgreSQL &#xe76e; , SQLite &#xe7c4; , MongoDB &#xe7a4; , Firebase &#xf0967;
 * Android &#xf17b;
 
-#### Frameworks:
-* Docker &#xe7b0; , Kubernetes &#xe81d; 
+#### Frameworks
+
+* Docker &#xe7b0; , Kubernetes &#xe81d;
 * Spring Boot &#xe8ac; , Hibernate &#xe7fc;
 * React &#xe7ba; , Next.js &#xe83e; , SolidJS &#xe8a7; , Vite &#xe8d7; , TailwindCSS &#xf13ff;
 * Tauri &#xe8bb;
 * Android Compose &#xf17b; , Material UI &#xe829;
 
-
-
 ## Main Projects
 
-### PostChat - Intelligent Service to Send Digital Postcards 
+### PostChat - Intelligent Service to Send Digital Postcards
+
 Instituto Superior de Engenharia de Lisboa Final Bachelor’s Project, 2022.
+
 * Skills: Android Programming, AI, Jetpack Compose, Kotlin, Python, CNN, Tensorflow, PostgreSQL, Docker
-* Links: https://github.com/ACRae/PostChat
+* Links: <https://github.com/ACRae/PostChat>
 
 ### Genome Assemblers Comparison
+
 A Project and Publication about the underlying open source DNA genome assemblers algorithms and their output results, 2024.
+
 * Skills: Docker, Bash Shell, Python, Batch, Conda.
-* Links: https://github.com/ACRae/Genome_Assemblers_Comparison
+* Links: <https://github.com/ACRae/Genome_Assemblers_Comparison>
 
 ### Fullstack Budget Calculator For Cozimodos Lda
+
 A fullstack budget calculator for a custom kitchen workshop, Torres Vedras, Portugal, 2025.
+
 * Skills: React, JavaScript, TypeScript, PostgreSQL, Next.js, TailwindCSS, Node.js, i18n
-* Links: https://www.cozimodus.com
+* Links: <https://www.cozimodus.com>
 
 ### Mobile-CMUNeXt: Fast Semantic Segmentation Diagnosis of Medical Images
-Master’s Thesis Project, 2025.
-* Skills: Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
-* Links: https://github.com/ACRae/Mobile-CMUNeXt
 
+Master’s Thesis Project, 2025.
+
+* Skills: Python, AI, Pytorch, FPGA, C, C++, Xilinx Vitis & Vivado
+* Links: <https://github.com/ACRae/Mobile-CMUNeXt>
 
 ## Socials
+
 ### Email &#xf01ee;
-* antonio.maria5.carvalho@gmail.com 
-* acrae.dev@proton.com
+
+* <antonio.maria5.carvalho@gmail.com>
+* <acrae.dev@proton.com>
 
 ### LinkedIn &#xe820;
-https://www.linked.com/in/acrae2002
+
+<https://www.linked.com/in/acrae2002>
 
 ### GitHub &#xf09b;
-https://github.com/ACRae
+
+<https://github.com/ACRae>
 
 ### Codeberg &#xf330;
-https://codeberg.org/ACRae
+
+<https://codeberg.org/ACRae>
 
 ### ORCID &#xefbb;
-https://orcid.org/0009-0001-5265-9566
+
+<https://orcid.org/0009-0001-5265-9566>
